@@ -18,7 +18,7 @@
 
 ### 前置要求
 - Python 3.8+
-- moviepy,tqdm,tkinter(pip install tkinter moviepy tqdm)
+- moviepy,tqdm,tkinter
 - FFmpeg ([安装指南](https://ffmpeg.org/download.html))
 
 ### 通过命令安装
@@ -31,4 +31,4 @@ cd mp4_to_mp3_converter
 ```bash
 pip install -r requirements.txt
 ```
-
+###
