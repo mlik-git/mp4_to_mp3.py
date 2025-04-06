@@ -14,6 +14,13 @@
 - 📊 **进度显示**：实时转换进度条
 - � **容错机制**：自动跳过损坏文件
 
+## 🎥 操作演示
+### exe版
+- 流程与效果
+<img src='https://github.com/mlik-git/mp4_to_mp3.py/blob/main/src/QQ20250406-203216.png' width='900px'>
+<img src='https://github.com/mlik-git/mp4_to_mp3.py/blob/main/src/QQ20250406-203307.png' width='900px'>
+<img src='https://github.com/mlik-git/mp4_to_mp3.py/blob/main/src/QQ20250406-204455.png' width='900px'>
+
 ## 📦 安装指南
 
 ### 前置要求
