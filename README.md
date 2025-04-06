@@ -28,5 +28,4 @@ cd mp4_to_mp3_converter
 pip install -r requirements.txt
 ```
 ### 压缩包
-<details>
-<summary><b>🛠 高级安装选项</b></summary>
+- zip压缩包(1[23网盘](https://www.123684.com/s/5kqCjv-ZmYs3?))
