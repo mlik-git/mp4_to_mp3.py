@@ -27,5 +27,8 @@ git clone https://github.com/yourusername/mp4_to_mp3_converter.git
 cd mp4_to_mp3_converter
 pip install -r requirements.txt
 ```
-### 压缩包
-- zip压缩包(1[23网盘](https://www.123684.com/s/5kqCjv-ZmYs3?))
+### zip压缩包
+- 123网盘([下载链接](https://www.123684.com/s/5kqCjv-ZmYs3?))
+- 迅雷网盘([下载链接](https://pan.xunlei.com/s/VONA1Pf0_IJYhIi7qQcgeaW4A1?pwd=tsev#))
+- 百度网盘([下载链接](https://pan.baidu.com/s/1aJtt3ljOTqTPjVDNDvAtlQ?))
+- 提取码均为1111
