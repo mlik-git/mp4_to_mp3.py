@@ -27,5 +27,6 @@ git clone https://github.com/yourusername/mp4_to_mp3_converter.git
 cd mp4_to_mp3_converter
 pip install -r requirements.txt
 ```
-###压缩包
-<a href='#'>
+### 压缩包
+<details>
+<summary><b>🛠 高级安装选项</b></summary>
