@@ -21,6 +21,14 @@
 - moviepy,tqdm,tkinter(pip install tkinter moviepy tqdm)
 - FFmpeg ([安装指南](https://ffmpeg.org/download.html))
 
-### 通过 PyPI 安装
+### 通过命令安装
 ```bash
-pip install mp4-to-mp3-converter
+git clone https://github.com/yourusername/mp4_to_mp3_converter.git  
+```
+```bash
+cd mp4_to_mp3_converter
+```
+```bash
+pip install -r requirements.txt
+```
+
